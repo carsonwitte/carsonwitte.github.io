@@ -2142,10 +2142,10 @@ input, select, textarea {
 		button.small,
 		.button.small {
 			font-size: 0.6rem;
-			height: 3em;
-			line-height: 3em;
-			border-radius: 3em;
-			padding: 0 0;
+			height: 3.325em;
+			line-height: 3.325em;
+			border-radius: 3.325em;
+			padding: 0 2em;
 		}
 
 		input[type="submit"].large,
